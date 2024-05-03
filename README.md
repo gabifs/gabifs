@@ -1,4 +1,4 @@
-## Olá! eu sou Gabi, Frontender júnior na Árvore!
+## Olá! eu sou Gabi, Frontender Pleno na Árvore!
 
 <div align="center">
   <a href="https://github.com/gabifs">
