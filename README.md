@@ -1,4 +1,4 @@
-## Olá! eu sou Gabi, Frontender Pleno na Árvore!
+## Olá! eu sou Gabi, Dev Front-end e Mobile!
 
 <div align="center">
   <a href="https://github.com/gabifs">
@@ -18,8 +18,9 @@
 ---
  
 <div> 
-  <a href="https://instagram.com/_tapiel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/tapi_fernandes
+" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ga3riel.fernandess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-fernandes-3404ba16a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabi-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
